@@ -50,3 +50,13 @@ a {
 section {
   padding-top: 10%;
 }
+
+iframe {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+span {
+  color: red;
+}
