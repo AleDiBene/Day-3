@@ -1,0 +1,52 @@
+body {
+  margin: 0 auto;
+}
+
+nav img {
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+}
+
+nav p {
+  text-align: center;
+  background-color: rgb(255, 246, 234);
+  height: 60px;
+  border-top: 1px solid #efcdb4;
+  padding-top: 15px;
+}
+
+main {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+
+main h1 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+main img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 3%;
+  box-shadow: 10px 10px 20px rgb(0, 0, 0, 0.2);
+}
+
+.descImg {
+  opacity: 50%;
+  text-align: center;
+}
+
+.ContentFeatured {
+  border-left: 2px solid #f79046;
+}
+.ContentFeatured p,
+a {
+  margin: 0px 0px 0px 20px;
+}
+
+section {
+  padding-top: 10%;
+}
