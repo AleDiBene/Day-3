@@ -6,6 +6,7 @@ nav img {
   display: block;
   width: 150px;
   margin: 0 auto;
+  padding-top: 10px;
 }
 
 nav p {
@@ -43,7 +44,7 @@ main img {
   border-left: 2px solid #f79046;
 }
 .ContentFeatured p,
-a {
+.ContentFeatured a {
   margin: 0px 0px 0px 20px;
 }
 
@@ -59,4 +60,11 @@ iframe {
 
 span {
   color: red;
+}
+main h2 {
+  font-weight: 100;
+}
+
+li {
+  margin-bottom: 10px;
 }
